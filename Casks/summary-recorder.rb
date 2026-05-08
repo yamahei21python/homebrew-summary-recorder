@@ -1,6 +1,6 @@
 cask "summary-recorder" do
   version "1.0.0"
-  sha256 "9dd823e75b9821444dd6e112b1f6eeffc1225e6b0acef4f86927a180d4fd6c8c"
+  sha256 "dabf24ddd2537787cdfcc68be75e8bfb089181b96949eb5faa6b2b6bf67f4b59"
 
   url "https://github.com/yamahei21python/SummaryRecorder/releases/download/v#{version}/SummaryRecorder-#{version}.dmg",
       verified: "github.com/yamahei21python/SummaryRecorder/"
