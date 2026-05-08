@@ -1,8 +1,8 @@
 cask "summary-recorder" do
   version "1.0.0"
-  sha256 "dabf24ddd2537787cdfcc68be75e8bfb089181b96949eb5faa6b2b6bf67f4b59"
+  sha256 "67d1c8ad2baec6c14ab7b684b9c373bf9eba399d8af576917d5e12f55eecc5a6"
 
-  url "https://github.com/yamahei21python/SummaryRecorder/releases/download/v#{version}/SummaryRecorder-#{version}.dmg",
+  url "https://github.com/yamahei21python/SummaryRecorder/releases/download/v#{version}/SummaryRecorder.dmg",
       verified: "github.com/yamahei21python/SummaryRecorder/"
   name "SummaryRecorder"
   desc "AI meeting summary with local LLM + whisper"
